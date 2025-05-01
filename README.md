@@ -36,6 +36,25 @@ This project demonstrates how sensors can be used to automate a window’s behav
   - `'3'` – Close (180°)
 - **Time Logic**: (Assume integrated with real-time clock in advanced versions or can be simulated using `millis()` in Arduino).
 
+
+📊 Project Outcome
+✅ Functional prototype built
+✅ Demonstrated smart environmental control
+✅ Practical integration of sensors and actuators
+✅ Hands-on exposure to embedded systems and automation logic
+
+
+🧪 Future Improvements
+Add real-time clock (RTC) module for precise time-based control
+WiFi/Bluetooth module for mobile control
+Integration with smart home platforms (like Alexa/Google Home)
+
+
+👨‍💻 Developed By
+Pandit Siddharth Rajesh
+Arduino | Embedded Systems | Automation
+
+
 ## 🧠 Code
 
 ```cpp
@@ -91,18 +110,7 @@ void loop() {
 }
 
 
-📊 Project Outcome
-✅ Functional prototype built
-✅ Demonstrated smart environmental control
-✅ Practical integration of sensors and actuators
-✅ Hands-on exposure to embedded systems and automation logic
 
-🧪 Future Improvements
-Add real-time clock (RTC) module for precise time-based control
-WiFi/Bluetooth module for mobile control
-Integration with smart home platforms (like Alexa/Google Home)
 
-👨‍💻 Developed By
-Pandit Siddharth Rajesh
-Arduino | Embedded Systems | Automation
+
 

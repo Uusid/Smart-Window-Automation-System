@@ -35,6 +35,7 @@ This project demonstrates how sensors can be used to automate a window’s behav
   - `'2'` – Half-open (90°)
   - `'3'` – Close (180°)
 - **Time Logic**: (Assume integrated with real-time clock in advanced versions or can be simulated using `millis()` in Arduino).
+![Circuit Dig  of Smart Window Auto](https://github.com/user-attachments/assets/2d4aa08c-b9b9-444f-8ac3-57dcca64b592)
 
 
 📊 Project Outcome
